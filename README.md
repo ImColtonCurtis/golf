@@ -1,6 +1,4 @@
 # golf
-golf
-
 Welcome to golf, an exciting mobile game developed by No Nothing! In this game, you'll get to smack the monster ball across hundreds of brightly colored golf courses and guide it to the hole. But beware, there are many obstacles of doom that you'll need to avoid along the way!
 Features
 
